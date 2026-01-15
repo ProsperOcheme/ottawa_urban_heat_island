@@ -1,4 +1,5 @@
 # Ottawa Urban Heat Island Analysis
+![Ottawa Urban Heat Island Map](Ottawa_Heat_Island_Map.png)
 
 ## Project Overview
 Remote sensing analysis identifying urban heat island effects across Ottawa using Landsat 8 thermal imagery. This project demonstrates the application of satellite-based temperature analysis for urban climate assessment.
@@ -50,6 +51,7 @@ Remote sensing analysis identifying urban heat island effects across Ottawa usin
 - Side-by-side visualization
 - Demonstrates inverse relationship between vegetation and temperature
 - Connects to Project 1 (Tree Canopy Distribution Analysis)
+- ![Tree Canopy vs Heat Comparison](Slide1.png)
 
 ## Portfolio Context
 
